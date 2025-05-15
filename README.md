@@ -38,7 +38,7 @@ Comparación de tiempos de ejecución (ms) para matrices de 2000x2000 con 16 hil
 ![Comparación de tiempos](grafica_comparativa_2000x2000_16hilos.png)
 
 ## 📊 Tablas de Resultados
-Sistema 1
+-Sistema 1
 | Configuración | Fork (ms) | OpenMP (ms) | Posix (ms) |
 |---------------|-----------|-------------|-------------|
 | 500x1         | 375081    | 124287      | 348193      |
@@ -57,7 +57,7 @@ Sistema 1
 | 2000x8        | 2.16E+07  | 1.79E+07    | 2.17E+07    |
 | 2000x16       | 2.18E+07  | 1.80E+07    | 2.18E+07    |
 
-Sistema 2
+-Sistema 2
 | Configuración | Fork (ms) | OpenMP (ms) | Posix (ms) |
 |---------------|-----------|-------------|-------------|
 | 500x1         | 333459    | 87371.1     | 400238      |
@@ -76,7 +76,7 @@ Sistema 2
 | 2000x8        | 5.78E+11  | 3.62E+11    | 5.85E+11    |
 | 2000x16       | 4.94E+11  | 4.49E+11    | 5.53E+11    |
 
-Sistema 3
+-Sistema 3
 | Configuración | Fork (ms) | OpenMP (ms) | Posix (ms) |
 |---------------|-----------|-------------|-------------|
 | 500x1         | 340191    | 73109.3     | 339791      |
@@ -95,7 +95,7 @@ Sistema 3
 | 2000x8        | 3.64E+11  | 1.23E+11    | 3.62E+09    |
 | 2000x16       | 2.03E+11  | 947484      | 2.04E+11    |
 
-Sistema 4
+-Sistema 4
 | Configuración | Fork (ms) | OpenMP (ms) | Posix (ms) |
 |---------------|-----------|-------------|-------------|
 | 500x1         | 112115    | 104380      | 126192      |
@@ -114,7 +114,7 @@ Sistema 4
 | 2000x8        | 5.96E+11  | 6.05E+11    | 6.26E+11    |
 | 2000x16       | 5.77E+11  | 5.88E+11    | 6.11E+10    |
 
-Sistema 5
+-Sistema 5
 | Configuración | Fork (ms) | OpenMP (ms) | Posix (ms) |
 |---------------|-----------|-------------|-------------|
 | 500x1         | 578747    | 165231      | 577243      |
